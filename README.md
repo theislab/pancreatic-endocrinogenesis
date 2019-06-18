@@ -4,7 +4,6 @@ A. Bastidas-Ponce, S. Tritschler et al., "Comprehensive single cell mRNA profili
 
 The notebooks contain code for the following analyses:
 - scRNA_seq_preprocessing_clustering.ipynb  -->  QC, preprocessing, clustering and annotation steps (input data are raw count matrices)
-- scRNA_seq_doublet_detection.ipynb  -->  doublet score calculation (input data are raw count matrices)
 - scRNA_scRNA_seq_main_analysis.ipynb  -->  main analyses to reproduce all results (input data are preprocessed, filtered and annotated count matrices)
 - scRNA_seq_RNAvelocity_estimation.ipynb  -->  RNA velocity estimation (input data are preprocessed, filtered and annotated count matrices and bam files for to extract splicing information)
 
